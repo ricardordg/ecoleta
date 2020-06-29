@@ -1,0 +1,14 @@
+{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft": "Warning",
+      "Microsoft.Hosting.Lifetime": "Information"
+    }
+  },
+  "AllowedHosts": "*",
+  "ConnectionStrings":
+  {
+    "webapiConnection":"Host=your-host;Port=your-port;Database=your-database;Username=your-username;Password=your-password"
+  }
+}
